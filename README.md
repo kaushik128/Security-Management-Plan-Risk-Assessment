@@ -55,3 +55,20 @@ My contribution focused on:
 
 Master of Cybersecurity
 Victorian Institute of Technology (VIT)
+
+## Project Figures
+
+### Figure 1: Security Governance Structure
+![Figure 1](1.png)
+
+### Figure 2: Secure Acquisition Integration Process
+![Figure 2](2.png)
+
+### Figure 3: Risk Reduction Matrix
+![Figure 3](3.png)
+
+### Figure 4: Incident Response Workflow
+![Figure 4](4.png)
+
+### Figure 5: Cross-Border Data Transfer Decision Path
+![Figure 5](5.png)
